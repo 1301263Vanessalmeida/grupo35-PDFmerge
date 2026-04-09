@@ -1,0 +1,23 @@
+# Inputs e Outputs
+
+## Inputs de controlo
+- Iniciar a aplicação
+- Selecionar/carregar ficheiros PDF
+- Confirmar a operação de junção
+- Descarregar o PDF final
+- Sair da aplicação
+
+## Inputs algorítmicos
+- Um ou mais ficheiros PDF
+- Ordem dos ficheiros (se aplicável)
+- Metadados simples dos documentos (se aplicável)
+
+## Outputs de controlo
+- Apresentação da interface
+- Mensagem de erro
+- Mensagem de sucesso
+- Confirmação de PDF combinado com sucesso
+
+## Outputs algorítmicos
+- Ficheiro PDF final combinado
+- Informação estruturada sobre os ficheiros processados (se aplicável)
