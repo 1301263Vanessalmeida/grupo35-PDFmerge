@@ -19,3 +19,5 @@ Aplicação web simples que permite ao utilizador carregar vários ficheiros PDF
 - `/diagramas` → diagramas e modelação arquitetónica
 - `/src` → código-fonte da aplicação
 - `/entregas` → materiais finais e versões submetidas
+## Repositório
+Link: https://github.com/1301263Vanessalmeida/grupo35-PDFmerge
